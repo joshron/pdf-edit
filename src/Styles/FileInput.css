@@ -1,0 +1,9 @@
+.FileInput {
+  background-color: rgb(65, 120, 221);
+  color: white;
+  cursor: pointer;
+  width: fit-content;
+}
+.FileInput input {
+  display: none;
+}
