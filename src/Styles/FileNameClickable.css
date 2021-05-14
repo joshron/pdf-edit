@@ -1,0 +1,21 @@
+.File-name-clickable {
+  border: 1px solid black;
+  margin-bottom: 0.5rem;
+  width: 20rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.file-name {
+  background-color: gray;
+  padding: 0.5rem;
+  width: 15rem;
+}
+.delete-icon {
+  padding: 0.5rem;
+  cursor: pointer;
+}
+.delete-icon:hover {
+  color: red;
+}
